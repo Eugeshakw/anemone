@@ -5,7 +5,9 @@
   padding-bottom: 32px;
   font-family: "Inter", sans-serif;
 }
-
+.footer-contacts{
+  margin-top: 0;
+}
 .container {
   max-width: 320px;
   padding-right: 14px;
