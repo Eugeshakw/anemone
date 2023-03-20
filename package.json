@@ -1,11 +1,11 @@
 {
-  "name": "Grup09Proj",
+  "name": "anemone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Grup09Proj/",
+    "build": "vite build --base=/anemone/",
     "preview": "vite preview"
   },
   "devDependencies": {
